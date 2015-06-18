@@ -2,7 +2,7 @@
 Contributors: pbosakov
 Tags: cyrillic, slugs
 Requires at least: 2.0.2
-Tested up to: 3.9.2
+Tested up to: 4.2.2
 Stable tag: trunk
 
 Converts Cyrillic letters in post slugs to their Latin phonetic equivalent.
